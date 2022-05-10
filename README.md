@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hi, I'm Jonathan 👋
+
+
+```javascript
+const jonathan = {
+  pronouns: "her",
+  code: [Java, Typescript, HTML, CSS, SQL],
+  tools: [Angular, SpringBoot, SQLServer, PL/SQ],
+  architecture: ["microservices"],
+}
+```
 
 <!--
 **jongonlo/jongonlo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
