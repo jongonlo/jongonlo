@@ -5,7 +5,7 @@
 const jonathan = {
   pronouns: "her",
   code: [Java, Typescript, HTML, CSS, SQL],
-  tools: [Angular, SpringBoot, SQLServer, PL/SQ],
+  tools: [React, SpringBoot, SQLServer, PL/SQ],
   architecture: ["microservices"],
 }
 ```
